@@ -2,7 +2,7 @@ def speak_to_grandma
    message = gets.chomp 
    if message == "I LOVE YOU GRANDMA"
      puts "I LOVE YOU TOO PUMPKIN"
-     
+     elsif message == ""
 
 end
 
