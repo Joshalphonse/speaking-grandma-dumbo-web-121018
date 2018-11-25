@@ -1,3 +1,5 @@
+message = gets.chomp 
+
 def speak_to_grandma
   if message
 
