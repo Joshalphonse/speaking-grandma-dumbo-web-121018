@@ -1,7 +1,9 @@
-message = gets.chomp 
-
 def speak_to_grandma
-  if message
+   message = gets.chomp 
+   if message = "I LOVE YOU GRANDMA"
+     puts "I"
+
+end
 
 
 
