@@ -1,3 +1,16 @@
+def speak_to_grandma
+   message = gets.chomp 
+   if message == "I LOVE YOU GRANDMA"
+     puts "I LOVE YOU TOO PUMPKIN"
+     elsif message == "i love you grandma"
+     puts "HUH?! SPEAK UP, SONNY!"
+     elsif
+
+end
+
+
+
+
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
